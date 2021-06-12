@@ -28,4 +28,12 @@
     "pasteImage.basePath": "${projectRoot}/_static/images/",
     "pasteImage.forceUnixStyleSeparator": true,
     "pasteImage.prefix": "./_static/images/",
+    "python.venvPath": "/Users/chenxin",
+    "python.venvFolders": [
+        "envs",
+        ".pyenv",
+        ".direnv",
+        ".env",
+        "base_venv"
+    ]
 }

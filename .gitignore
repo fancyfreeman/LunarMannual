@@ -131,4 +131,4 @@ dmypy.json
 # Mac OS
 .DS_Store
 
-_build/
+_build/*

@@ -10,8 +10,9 @@
    :maxdepth: 2
    :caption: 帮助:
 
-   1.快速上手
-   2
+   part1
+   part2
+   part3
 
 
 
